@@ -6,13 +6,13 @@ export default function App() {
       Weather App
       <footer>
         This project was coded by{" "}
-        <a href="https://github.com/dashboard" rel="noopener" target="_blank">
+        <a href="https://github.com/dashboard" rel="noreferrer" target="_blank">
           Anne Gleichmann
         </a>
         , open sourced on{" "}
         <a
           href="https://github.com/annegleichmann/react-weather-app"
-          rel="noopener"
+          rel="noreferrer"
           target="_blank"
         >
           GitHub
