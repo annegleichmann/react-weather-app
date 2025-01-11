@@ -5,7 +5,7 @@ import axios from "axios";
 
 export default function WeatherForecast(props) {
   function handleResponse(response) {
-    console.log(respnose.data);
+    console.log(response.data);
   }
   console.log(props);
 
